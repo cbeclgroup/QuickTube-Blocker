@@ -18,7 +18,7 @@ Refresh any open YouTube tabs to let the code take over the page. Because the sc
 ---
 
 ### Quick Checklist
-* **Step 1:** Create folder.
+* **Step 1:** Create folder. Or download the folder 'QuickTube-Blocker' from GitHub 
 * **Step 2:** Add both `.json` and `.js` files.
 * **Step 3:** Go to `chrome://extensions/`.
 * **Step 4:** Turn on **Developer mode**.
